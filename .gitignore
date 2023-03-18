@@ -90,16 +90,6 @@ lerna-debug.log
 .DS_Store
 Thumbs.db
 
-# img
-*.jpg
-*.png
-img/
-
-# videos
-*.mp4
-
-#audio
-*.mp3
 
 # packages
 
